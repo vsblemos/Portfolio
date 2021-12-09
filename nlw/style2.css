@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: "roboto", sans-serif;
+    height: 100%;
+}
+
+
+main {
+    background-image: url(./images/background.svg);
+    width: 375px;
+    height: 812px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#container {
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: hsl(240, 9%, 89%);
+    
+}
+
+#profile {
+    display: inline-block;
+    width: 160px;
+    margin-top: 11.5rem;
+    position: relative
+
+}
+
+#profile span {
+    position: absolute;
+    top:-15px;
+  
+}
+
+#profile >img {
+    
+    width: 10rem;
+    height: 11,5rem;
+    object-fit: cover;
+}
+
+
+
+h1 {
+    font-size: 32px;
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+a img {
+    
+    margin-right: 5px;
+    display: inline-block;
+}
+
+a {
+    color: hsl(240, 9%, 89%);
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    margin-top: 32px;
+}
+
+ul li {
+    display: inline-block;
+}
+
