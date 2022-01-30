@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+<h1>Olá, Bem-Vindo ao projeto Loja Virtual Shoes</h1>
+<br>
+<br>
+<img src="https://github.com/vsblemos/Projetos/blob/main/loja_virtual_shoes/lojashoes.png" alt="">
+<h3>Sobre o projeto</h3>
+<p>O projeto original foi elaborado pela Rocketseat, escola de cursos de programaçao online. A ideia por tras deste projeto é desafiar as habilidades de codificaçao e reproduçao de layouts a partir de um desing pronto.<br>
+    Para este projeto, foi fornecido o guia de cores e fontes, imagens, e o layout desenvolvido com o Figma.
+</p>
+<hr>
+<h3>Habilidades Desenvolvidas</h3>
+<ul>
+    <li>HTML</li>
+    <LI>CSS</LI>
+</ul>
+<BR>
+</BR>
+<H3>Recursos Utilizados:</H3>
+<ul>
+    <li>Flex</li>
+    <li>Position</li>
+    <li>Iframe</li>
+</ul>
+</body>
+</html>
+
