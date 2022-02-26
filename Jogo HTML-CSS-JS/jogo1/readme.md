@@ -1,7 +1,7 @@
 <h1>Olá, bem-vindo ao jogo HTML / CSS / JS</h1>
 <br>
 <br>
-<img src="https://github.com/vsblemos/Projetos/blob/main/loja_virtual_shoes/lojashoes.png" alt="">
+<img src="https://github.com/vsblemos/Projetos/blob/main/Jogo%20HTML-CSS-JS/jogo1/imgs/Captura%20de%20Tela%202022-02-25%20a%CC%80s%2021.35.41.png" alt="">
 <h3>Sobre o projeto</h3>
 
 <p>Neste projeto, construimos um jogo interativo através da combinação de HTML/CSS e JS, além da utilização de Jquery para a funcao collision. Projeto criado durante o bootcamp TAKE
